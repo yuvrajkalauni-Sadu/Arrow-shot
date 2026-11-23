@@ -1,0 +1,6 @@
+{
+  "name": "Comet Dash",
+  "description": "A smooth 60fps 2D HTML5 Canvas arcade game where you pilot a starward glider, collect solar shards, and dash through telegraphed hazards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
